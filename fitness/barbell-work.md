@@ -1,6 +1,6 @@
 # Barbell Work
 
-Snatch Drills:
+## Snatch Drills
 - snatch liftoff
 - snatch high pull
 - swing and pop (my favorite)
@@ -8,25 +8,25 @@ Snatch Drills:
 - overhead squats
 - snatch balance
 
-Snatch Training
+## Snatch Training
 - EMOM: 2 PS @ 70%
 - 4 sets of 3 reps @ 70% - rest as needed
 - COMPLEX suggestions: 1 liftoff + 1 PS + 1 OHS
 
-Clean Drills
+## Clean Drills
 - clean DL
 - high pull
 - power clean
 -
 
-CleanTraining
+## CleanTraining
 - EMOM: 2 clean @ 70%
 - 4 sets of 3 reps @ 70% - rest as needed
 - COMPLEX suggestions: 1 liftoff + 1 PC + 1 S2OH
 
-Jerk
+## Jerk
 - jerk balance
 
-Jerk COMPLEX idea
+## Jerk COMPLEX idea
 - PP+PJ+SJ
 - EMOM 6: 2 PJ
