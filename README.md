@@ -5,4 +5,13 @@ Inspired by:
  - https://til.simonwillison.net/
  
  <!-- index starts -->
- <!-- index ends -->
+## fitness
+
+* [Barbell Work](https://github.com/jasich/til/blob/master/fitness/barbell-work.md) - 2020-04-23
+* [Russian Step Ups](https://github.com/jasich/til/blob/master/fitness/russian-step-ups.md) - 2020-04-24
+* [Foo](https://github.com/jasich/til/blob/master/fitness/foo.md) - 2020-05-03
+
+## management
+
+* [Situation Behavior Impact](https://github.com/jasich/til/blob/master/management/situation-behavior-impact.md) - 2020-04-24
+<!-- index ends -->
