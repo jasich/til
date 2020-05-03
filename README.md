@@ -9,7 +9,6 @@ Inspired by:
 
 * [Barbell Work](https://github.com/jasich/til/blob/master/fitness/barbell-work.md) - 2020-04-23
 * [Russian Step Ups](https://github.com/jasich/til/blob/master/fitness/russian-step-ups.md) - 2020-04-24
-* [Foo](https://github.com/jasich/til/blob/master/fitness/foo.md) - 2020-05-03
 
 ## management
 
