@@ -1,4 +1,4 @@
-# Barbell Work
+# Barbell Drills
 
 ## Snatch Drills
 - snatch liftoff
@@ -17,7 +17,6 @@
 - clean DL
 - high pull
 - power clean
--
 
 ## CleanTraining
 - EMOM: 2 clean @ 70%
