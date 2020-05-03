@@ -1,4 +1,4 @@
-# Barbell Drills
+# Barbell Work
 
 ## Snatch Drills
 - snatch liftoff
