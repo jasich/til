@@ -14,3 +14,6 @@ Focus on BREATH
 - 1min thread the needle left side
 - 1min thread the needle right side
 - 1min child pose
+
+
+[![](http://img.youtube.com/vi/IccUzfxUqWk/0.jpg)](http://www.youtube.com/watch?v=IccUzfxUqWk "Stretching")
