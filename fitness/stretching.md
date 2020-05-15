@@ -3,7 +3,7 @@
 Spend quality time in each movement - continuous movement.
 Focus on BREATH
 
-- 2x through... (28mins)
+### 2x through... (28mins)
 - 2min forward fold
 - 1min downward dog
 - 2min seated straddle
